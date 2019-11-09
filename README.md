@@ -1,4 +1,4 @@
-# Menghitung-Suhu-C++-
+# Menghitung Suhu C++-
 
 Menghitung Suhu menggunakan Bahasa C++
 
